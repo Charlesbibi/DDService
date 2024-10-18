@@ -34,7 +34,7 @@
 
 注意乘客端更改腾讯地图的服务api key为自己申请的key，需要自己去腾讯地图处申请官网链接 ---- https://lbs.qq.com/
 
-[帮助文档]:https://blog.csdn.net/PleaseBeStrong/article/details/142703785
+[帮助文档](https://blog.csdn.net/PleaseBeStrong/article/details/142703785)
 
 ![qqmapkey](https://github.com/user-attachments/assets/69805023-d669-4dd8-ba20-879f3c541598)
 
@@ -53,7 +53,7 @@ JDK17+SpringCloud3.0 运行环境，联网使用maven下载所需项目依赖部
 
 获取腾讯地图的服务调用key，具体查看官网链接 ---- https://lbs.qq.com/
 
-[帮助文档]:https://blog.csdn.net/PleaseBeStrong/article/details/142703785
+[帮助文档](https://blog.csdn.net/PleaseBeStrong/article/details/142703785)
 
 ## 2.4 云服务器配置
 
