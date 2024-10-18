@@ -162,7 +162,10 @@ EOF
 sudo systemctl daemon-reload
 sudo systemctl restart docker
 ```
-
+## 2.5 properties文件夹
+1. 包含nacos的配置文件，直接将压缩文件导入到nacos配置管理中
+2. 包含项目所使用的sql建库建表脚本文件，直接在数据库中执行即可
+3. 微信端代码，包含乘客端和司机端
 
 
 # 3. 整体技术使用路线
